@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2003
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestMakerFreeWebAPP", "TestMakerFreeWebAPP\TestMakerFreeWebAPP.csproj", "{68C5BAA7-77A5-4589-8A8E-16EDFF4F066B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Core2Angular5BaseAPP", "Core2Angular5BaseAPP\Core2Angular5BaseAPP.csproj", "{EC0C475C-A2D8-45D9-91FC-CBED4F2CD4AF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{68C5BAA7-77A5-4589-8A8E-16EDFF4F066B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{68C5BAA7-77A5-4589-8A8E-16EDFF4F066B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{68C5BAA7-77A5-4589-8A8E-16EDFF4F066B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{68C5BAA7-77A5-4589-8A8E-16EDFF4F066B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC0C475C-A2D8-45D9-91FC-CBED4F2CD4AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC0C475C-A2D8-45D9-91FC-CBED4F2CD4AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC0C475C-A2D8-45D9-91FC-CBED4F2CD4AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC0C475C-A2D8-45D9-91FC-CBED4F2CD4AF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
